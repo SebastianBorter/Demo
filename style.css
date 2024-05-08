@@ -102,16 +102,16 @@ body {
     font-size: 3vw;
     grid-column: 1/4;
     grid-row: 4/5;
-    padding-top: 25vh;
+    padding-top: 27vh;
     padding-left: 5vw;
   }
 
   .Quote {
-    font-size: 8vw;
+    font-size: 7vw;
     grid-column: 1/4;
     grid-row: 3/4;
     padding-left: 5vw;
-    padding-top: 30vh;
+    padding-top: 24vh;
   }
 
   .img1 {
