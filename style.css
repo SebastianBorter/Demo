@@ -92,13 +92,13 @@ body {
 
   .Titel {
     grid-column: 1 / 4;
-    grid-row: 1 / 2;
+    grid-row: 1 / 3;
     padding-top: 10vh;
-    padding-left:10vw;
+    padding-right:100vw;
   }
 
   .Director {
-    font-size: 6vw;
+    font-size: 2vw;
     grid-column: 1/4;
     grid-row: 4/5;
     padding-top: 12vh;
@@ -129,7 +129,7 @@ body {
   .layers::after {
     top: 5px;
     left: -10px;
-    color: #1bc7fb0e;
+    color: #1bc7fb10;
     opacity: 0;
   }
 
