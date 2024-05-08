@@ -84,7 +84,7 @@ body {
 
 /*Mediaquerries*/
 
-@media only screen and (max-width: 360px) and (max-height: 780px) {
+@media only screen and (max-width: 500px) and (max-height: 900px) {
   body {
     grid-template-columns: 5vw 90vw 5vw;
     grid-template-rows: 10vh 15vh 40vh 20vh 15vh;
